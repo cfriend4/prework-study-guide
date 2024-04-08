@@ -22,4 +22,5 @@ topics.forEach(function(element){
     console.log(element);
 });
 //forEach function takes a callback function as an argument.
+//A callback function is a function that is passed as an argument to another function and is executed after a particular event or condition occurs.
 //Inside the callback function, element represents the current element being processed.
